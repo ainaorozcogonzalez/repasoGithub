@@ -33,7 +33,7 @@ Mi nombre es __*Aina*__ y estoy en la 301
  </html>
  ```
  
- [Enlace a wikipedia](https://es.wikipedia.org/wiki/Nobita_Nobi "Haciendo clic aqui vas a la wikipedia")
+ [Enlace a wikipedia](https://es.wikipedia.org/wiki/Nobita_Nobi "Haciendo clic aqui vas a la wikipedia de Nobita Nobi")
 
 
 ![TheRealNobita](https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/12/18/5fa5313980858.jpeg "Haciendo clic aqui vas a ver al verdadero Nobita en accion")
