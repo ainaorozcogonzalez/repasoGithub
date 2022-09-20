@@ -33,4 +33,4 @@ Mi nombre es __*Aina*__ y estoy en la 301
  </html>
  ```
  
- [Enlace a wikipedia]([URL](https://es.wikipedia.org/wiki/Wikipedia:Portada "Haciendo clic aqui vas a la wikipedia")
+ [Enlace a wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada "Haciendo clic aqui vas a la wikipedia")
